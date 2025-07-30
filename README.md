@@ -29,6 +29,21 @@ Fронтенд с фреймворком next.js
 
 ---
 
+<p>
+Если у вас возникла необходимость ознакомится с моим опытом, то по этой ссылке вы найдете мое
+<a href="https://drive.google.com/file/d/1ijaxeUeIbSH7eeQ3xYlh-t5x3-tjw9cA/view?usp=sharing">РЕЗЮМЕ</a>.
+
+</p>
+<p>
+Рекомендация с места работы
+          <a href="https://drive.google.com/file/d/1vmkdQpL6pjxc5wKelzC72vWGGa8ISG59/view?usp=drive_link">в этом письме.</a>.
+</p>
+
+
+---
+
+---
+
 Языки программирования и технологии/фреймворки с которыми я работаю.
 
 | Rank | Languages |                
