@@ -92,7 +92,7 @@ Fронтенд с фреймворком next.js
 
 <p>
 Если у вас возникла необходимость ознакомится с моим опытом, то по этой ссылке вы найдете мое
-<a href="https://drive.google.com/file/d/1ijaxeUeIbSH7eeQ3xYlh-t5x3-tjw9cA/view?usp=sharing">РЕЗЮМЕ</a>.
+<a href="[https://drive.google.com/file/d/1ijaxeUeIbSH7eeQ3xYlh-t5x3-tjw9cA/view?usp=sharing](https://drive.google.com/drive/folders/1ZMNg435pQ6bF5J08j5hc_iwUeqeEMZB-?usp=drive_link)">РЕЗЮМЕ</a>.
 
 </p>
 <p>
@@ -148,7 +148,7 @@ Fронтенд с фреймворком next.js
 
 <p>
 Если у вас возникла необходимость ознакомится с моим опытом, то по этой ссылке вы найдете мое
-<a href="https://drive.google.com/file/d/1ijaxeUeIbSH7eeQ3xYlh-t5x3-tjw9cA/view?usp=sharing">РЕЗЮМЕ</a>.
+<a href="[https://drive.google.com/file/d/1ijaxeUeIbSH7eeQ3xYlh-t5x3-tjw9cA/view?usp=sharing](https://drive.google.com/drive/folders/1ZMNg435pQ6bF5J08j5hc_iwUeqeEMZB-?usp=drive_link)">РЕЗЮМЕ</a>.
 
 </p>
 <p>
@@ -223,5 +223,5 @@ Ivan Goncharov
 
 ---
 
-<a href="https://drive.google.com/file/d/1ijaxeUeIbSH7eeQ3xYlh-t5x3-tjw9cA/view?usp=sharing"> English version of my CV </a>
+<a href="[https://drive.google.com/file/d/1ijaxeUeIbSH7eeQ3xYlh-t5x3-tjw9cA/view?usp=sharing](https://drive.google.com/drive/folders/1ZMNg435pQ6bF5J08j5hc_iwUeqeEMZB-?usp=drive_link)"> English version of my CV </a>
 
