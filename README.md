@@ -40,7 +40,7 @@ JS / TypeScript / React / Next.js (Purple School + официальная док
 
 Алгоритмы и структуры данных
 
-Kubernetes
+Docker
 
 Сети и модель OSI
 
