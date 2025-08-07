@@ -204,7 +204,7 @@ Fundamentals of Artificial Intelligence (via books)
 
 Algorithms and data structures
 
-Kubernetes
+Docker
 
 Computer networks and the OSI model
 
