@@ -165,6 +165,63 @@ Fронтенд с фреймворком next.js
 
 
 
+---
 
+For many years, I worked as an engineer in technology-driven fields, maintaining industrial equipment, its networks, and the infrastructure of buildings and offices. I often had to solve complex tasks related to configuration, programming, and adapting systems to non-standard conditions. In many cases, equipment manufacturers refused to provide assistance, so I had to find solutions on my own.
+
+These challenges kept me constantly engaged — I regularly studied new technologies and, with deeper involvement, realized that I genuinely enjoy solving unconventional problems.
+
+Later on, I decided to improve my English and deepen my knowledge in backend development.
+
+I consider myself a hands-on specialist: for me, the best way to learn is by diving into real tasks and reinforcing knowledge through practical application.
+To be honest, exploring new frameworks and programming languages has become a natural and comfortable routine for me.
+
+Today, I have a strong command of English, which helps me easily learn and adapt to new technologies. I have practical experience in backend development, including participation in a variety of successful projects.
+
+Technologies and frameworks I have worked with:
+
+Python
+
+Django
+
+FastAPI
+
+SQL (relational databases) / NoSQL (Redis, MongoDB)
+
+DBAPI / SQLAlchemy / Django ORM
+
+Docker
+
+MacOS, Linux (confident user level)
+
+I’m constantly exploring new technologies and deeply resonate with the Open Source philosophy. I frequently experiment with new tools for both personal development and real-world application in projects.
+
+Additional areas I’ve studied and continue to explore:
+
+JS / TypeScript / React / Next.js (Purple School + official documentation)
+
+Fundamentals of Artificial Intelligence (via books)
+
+Algorithms and data structures
+
+Kubernetes
+
+Computer networks and the OSI model
+
+Kafka Streams
+
+...and many other topics
+
+Of course, I understand that a high level of professionalism is built not only through reading and experimentation, but primarily through hands-on experience in real production environments.
+
+What I value in a job opportunity:
+I’d like to join a team where there is mutual trust, openness to new ideas, a drive to find the best solutions, and a desire to grow alongside the product being developed.
+
+I’ll be glad if you recognize and value my years of experience and growth in the tech industry.
+
+I’m confident that you will find in me not only a reliable teammate, but also a responsible professional focused on delivering high-quality results.
+
+Sincerely,
+Ivan Goncharov
 
 
