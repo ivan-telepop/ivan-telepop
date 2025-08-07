@@ -1,5 +1,7 @@
+> [!NOTE]
+> You may read english text below
+---
 ## Приветствую ! 👋
-
 
 **Я Иван Гончаров**  ✨ Python ✨ разработчик. 
 
@@ -158,14 +160,9 @@ Fронтенд с фреймворком next.js
 ---
           
 
-> [!NOTE]
-> Наиболее важные и интересные проекты скрыты так как являются собственностью компаний в которых я работал,
-> хотя они несомненно являются хорошим показателем практики и опыта за тот период что я работал.
-> В секции Pinned вы найдете часть персональных проектов которые я могу показать.
+## Holla friends ! 👋
 
-
-
----
+** My name is Ivan Goncharov ** i'm an  ✨ Python ✨ developer. 
 
 For many years, I worked as an engineer in technology-driven fields, maintaining industrial equipment, its networks, and the infrastructure of buildings and offices. I often had to solve complex tasks related to configuration, programming, and adapting systems to non-standard conditions. In many cases, equipment manufacturers refused to provide assistance, so I had to find solutions on my own.
 
@@ -224,4 +221,7 @@ I’m confident that you will find in me not only a reliable teammate, but also 
 Sincerely,
 Ivan Goncharov
 
+---
+
+<a href="https://drive.google.com/file/d/1ijaxeUeIbSH7eeQ3xYlh-t5x3-tjw9cA/view?usp=sharing"> English version of my CV </a>
 
