@@ -20,9 +20,10 @@ React / Next.js / Tailwind и др.
 
 ----
 
-![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivan-telepop)](https://github.com/ivan-telepop/github-readme-stats)
+
+![Ivans's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivan-telepop&show_icons=true&bg_color=00000000) ( Statistic of page: )
 
 
 ---
 
-![Ivans's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivan-telepop&show_icons=true&bg_color=00000000) ( Statistic of page: )
+[![Ivans's Telegram: ](https://t.me/ewanG808)] (Telegram for contact me:)
