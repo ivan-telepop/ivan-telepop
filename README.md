@@ -18,7 +18,7 @@ RAG / Function Call
 
 #### Инфо и контакты.
 
-[Telegram:](https://t.me/ewanG808)]
+[Telegram:](https://t.me/ewanG808)
 
 ---
 [Резюме на HH:](https://hh.ru/resume/034278d3ff0f531f210039ed1f5233494f614a)
