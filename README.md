@@ -21,9 +21,17 @@ React / Next.js / Tailwind и др.
 ----
 
 
-![Ivans's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivan-telepop&show_icons=true&bg_color=00000000) ( Statistic of page: )
+![Ivans's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivan-telepop&show_icons=true&bg_color=00000000)
 
 
 ---
 
-[![Ivans's Telegram: ](https://t.me/ewanG808)] (Telegram for contact me:)
+#### Инфо и контакты.
+
+[Telegram:](https://t.me/ewanG808)]
+
+---
+[Резюме на HH:](https://hh.ru/resume/034278d3ff0f531f210039ed1f5233494f614a)
+
+---
+[Сайт и блог:](https://ivan-telepop.github.io/#russ)
