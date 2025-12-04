@@ -11,7 +11,7 @@ RAG / Function Call
 ----
 
 
-![Ivans's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivan-telepop&show_icons=true&bg_color=00000000)
+[![Ivan's GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ivan-telepop&theme=tokyonight)](https://git.io/awesome-stats-card)
 
 
 ---
