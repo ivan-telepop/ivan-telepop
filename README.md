@@ -26,7 +26,7 @@ RAG / Function Call
 [Telegram:](https://t.me/ewanG808)
 
 ---
-[Резюме на HH:](https://hh.ru/resume/034278d3ff0f531f210039ed1f5233494f614a)
+[Резюме на HH:](https://hh.ru/resume/36e94006ff0fb050e00039ed1f774639326762)
 
 ---
 [Сайт и блог:](https://ivan-telepop.github.io/#russ)
