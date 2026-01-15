@@ -1,6 +1,6 @@
 ### Приветствую !
-Я Python разработчик (обучался сам), есть опыт работы в технологичных сферах. Работал в проектах, решая задачи по построению и оптимизации backend-систем для бизнеса.
-Мой основной стек: 
+Вы на странице с проектами Ивана Гончарова:
+Основной стек: 
 Python, FastAPI, Django, Docker
 Relational Databases, SQLAlchemy.  
 Ollama, LangChain, OpenAI 
@@ -9,9 +9,9 @@ RAG / Function Call
 Предпочитаю чистый, поддерживаемый код и всегда стараюсь писать его с учетом лучших практик. 
 
 ----
+Почитать обо мне можно тут:
+[Сайт и блог:](https://ivan-telepop.github.io/#russ)
 
-
-[![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanIStereotekk)](https://github.com/ivanIStereotekk/github-readme-stats)
 
 
 ---
