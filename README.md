@@ -17,15 +17,15 @@ RAG / Function Call
 Почитать обо мне можно тут:
 [Сайт и блог:](https://ivan-telepop.github.io/#russ)
 
-https://ivan-telepop.github.io/#russ - russ
-https://ivan-telepop.github.io/#russ - eng
+- https://ivan-telepop.github.io/#russ - russ
+- https://ivan-telepop.github.io/#russ - eng
 
 ---
 
 #### Инфо и контакты.
 
 [Telegram:](https://t.me/ewanG808)
-@ewanG808
+- @ewanG808
 ---
 [Резюме скачать:](https://github.com/ivan-telepop/ivan-telepop/blob/main/Ivan_Goncharov_CV_26.pdf)
 
