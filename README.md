@@ -38,3 +38,6 @@
 [Сайт и блог:](https://ivan-telepop.github.io/#russ)
 
 <a href="https://ivan-telepop.github.io/#russ"> Читать статьи и информацию обо мне </a>
+
+
+###### Pizdez nahuya zakrivat ludyam internet ? Hochu otkrit ego ! Zaebali suka etyi urodyi - gorite v zadu!
