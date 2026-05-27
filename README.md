@@ -81,7 +81,9 @@ https://t.me/yaprogrammerTrue
 To be continued
 
 ---
-I do trying hard to do my best!
+
+### Thanks to all people who are creative & positive wants to make world better. I do the same i just trying hard to do my best!
+
 ---
 Best wishes !
 
