@@ -40,13 +40,15 @@
 <a href="https://ivan-telepop.github.io/#russ"> Читать статьи и информацию обо мне </a>
 
 ---
-Ivan Stereotekk's music that makes change the world and thinking how. 
+Ivan Stereotekk's music that makes change the world and probably thinking how. 
 https://www.beatport.com/artist/ivan-stereotekk/394712
 https://www.mixcloud.com/ivanstereotekk/
 https://www.youtube.com/@Ivan_Stereotekk
 
+---
+telegram channel about tech:
+https://t.me/yaprogrammerTrue
 
-
-
-###### Pizdez nahuya zakrivat ludyam internet ? Zaebali suka etyi urodyi - gorite v zadu! Vi podnyalis na OpenSource, vam podarili tehnologii kotorie obyedenyali mir, i ti suka zakrili ego drugim. Kto ti chudovishe kotoroe nastraivaet eto govno? Prodalsya s potrohamy...Gde twoy codex i prinzipy beshrebetnoye sushestwo? Tfu blyat...)))
+---
+To be continued
 
