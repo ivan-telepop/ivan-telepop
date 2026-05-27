@@ -1,3 +1,30 @@
+### Hello!
+You are on the projects page of Ivan Goncharov.
+
+Main stack:
+
+- Python, FastAPI, Django, Docker
+- Relational Databases, SQLAlchemy
+- Ollama, LangChain, OpenAI
+- RAG / Function Calling
+- Next.js React
+
+In the Pinned section, you will find the most interesting projects. Some of them are still under development, so changes and updates may occur during the current period.
+
+In general, I prefer clean, maintainable code and always strive to write it according to best practices.
+
+Really want to find dream job position.
+
+---
+Read about experience:
+
+[website & blog:](https://ivan-telepop.github.io/#russ)
+
+- https://ivan-telepop.github.io/#russ - russ
+- https://ivan-telepop.github.io/#eng - eng
+
+---
+
 ### Приветствую !
 
 
@@ -11,6 +38,7 @@
 - Relational Databases, SQLAlchemy.  
 - Ollama, LangChain, OpenAI 
 - RAG / Function Call
+- Next.js React
 
 В разделе Pinned вы найдете наиболее интересные проекты. Некоторые из них все еще в процессе разработки, возможны изменения и обновления в текущий период.
 В целом предпочитаю чистый, поддерживаемый код и всегда стараюсь писать его с учетом лучших практик. 
@@ -25,12 +53,12 @@
 
 ---
 
-#### Инфо и контакты.
+#### Инфо и контакты | Contacts.
 
 [Telegram:](https://t.me/ewanG808)
 - @ewanG808
 ---
-[Резюме скачать:](https://github.com/ivan-telepop/ivan-telepop/blob/main/Ivan_Goncharov_CV_26.pdf)
+[Резюме скачать | CV Resume :](https://github.com/ivan-telepop/ivan-telepop/blob/main/Ivan_Goncharov_CV_26.pdf)
 
 <a href="https://github.com/ivan-telepop/ivan-telepop/blob/main/Ivan_Goncharov_CV_26.pdf"> View PDF file </a>
 
@@ -51,4 +79,9 @@ https://t.me/yaprogrammerTrue
 
 ---
 To be continued
+
+---
+I'm so sorry if something gone wrong but you should know that i trying hard to do my best!
+---
+Best wishes !
 
