@@ -81,7 +81,7 @@ https://t.me/yaprogrammerTrue
 To be continued
 
 ---
-I'm so sorry if something gone wrong but you should know that i trying hard to do my best!
+I do trying hard to do my best!
 ---
 Best wishes !
 
