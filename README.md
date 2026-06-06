@@ -78,12 +78,6 @@ telegram channel about tech:
 https://t.me/yaprogrammerTrue
 
 ---
-To be continued
-[![Click to watch](https://youtu.be/VoamgKhbmBk?si=v6x-TEOhEVofy8N0)](https://youtu.be/VoamgKhbmBk?si=v6x-TEOhEVofy8N0)
-
-
-
----
 
 Thanks to all people who are creative & positive wants to make world better. I do the same i just trying hard to do my best!
 
