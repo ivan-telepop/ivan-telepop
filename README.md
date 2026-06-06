@@ -79,8 +79,8 @@ https://t.me/yaprogrammerTrue
 
 ---
 To be continued
+[![Click to watch](https://youtu.be/VoamgKhbmBk?si=v6x-TEOhEVofy8N0)](https://youtu.be/VoamgKhbmBk?si=v6x-TEOhEVofy8N0)
 
-<iframe width="560" height="315" src="https://youtu.be/VoamgKhbmBk?si=v6x-TEOhEVofy8N0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ---
