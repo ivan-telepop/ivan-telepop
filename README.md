@@ -81,7 +81,9 @@ https://t.me/yaprogrammerTrue
 MEME GENERATED VOICE:
 Голос сгенерирован на LLM Python/TTS который имеет французский акцент.
 - модель обучил говорить моим голосом, в оригинале был использован файл с мои голосом, далее при генерации я указал параметр language='fr',
-- но при этом входной текст сохранил на русском языке. Получилось забавно !
+- но при этом входной текст сохранил на русском языке.
+- Получилось забавно !
+
 LINK [SoundCloud:](https://soundcloud.com/telepopchik/fr_output?si=864be554fd0d48e391834ee327aabb68&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 
 ---
