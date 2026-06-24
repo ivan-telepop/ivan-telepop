@@ -56,7 +56,7 @@ Read about experience:
 #### Инфо и контакты | Contacts.
 
 [Telegram:](https://t.me/telepopchik)
-- @ewanG808
+- @telepopchik
 ---
 [Резюме скачать | CV Resume :](https://github.com/ivan-telepop/ivan-telepop/blob/main/Ivan_Goncharov_CV_26.pdf)
 
