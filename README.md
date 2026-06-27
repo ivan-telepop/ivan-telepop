@@ -58,7 +58,13 @@ Read about experience:
 [Telegram:](https://t.me/telepopchik)
 - @telepopchik
 ---
-[Резюме скачать | CV Resume :](https://github.com/ivan-telepop/ivan-telepop/blob/main/Ivan_Goncharov_CV_26.pdf)
+```sql
+
+[Резюме скачать ENG | Download ENG :](https://github.com/ivan-telepop/ivan-telepop/blob/main/eng_June - Ivan Goncharov.pdf)
+
+[Резюме скачать RU | Download RU :](https://github.com/ivan-telepop/ivan-telepop/blob/main/ru_June - Гончаров Иван Михайлович.pdf)
+
+```
 
 <a href="https://github.com/ivan-telepop/ivan-telepop/blob/main/Ivan_Goncharov_CV_26.pdf"> View PDF file </a>
 
