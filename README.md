@@ -20,6 +20,13 @@ Read about experience:
 
 [website & blog:](https://ivan-telepop.github.io/#russ)
 
+
+---
+
+[ Explore english  CV  >>>  :](https://github.com/ivan-telepop/ivan-telepop/blob/main/eng_June%20-%20Ivan%20Goncharov.pdf)
+
+---
+
 - https://ivan-telepop.github.io/#russ - russ
 - https://ivan-telepop.github.io/#eng - eng
 
@@ -56,18 +63,15 @@ Read about experience:
 #### Инфо и контакты | Contacts.
 
 [Telegram:](https://t.me/telepopchik)
+
 - @telepopchik
-- 
+
 ---
 CV Links \ Ссылки на резюме:
 
 [ Download ENG    >>>  |     Cкачать ENG :](https://github.com/ivan-telepop/ivan-telepop/blob/main/eng_June%20-%20Ivan%20Goncharov.pdf)
 
 [ Cкачать   RU    >>>  |     Download RU :](https://github.com/ivan-telepop/ivan-telepop/blob/main/ru_June%20-%20%D0%93%D0%BE%D0%BD%D1%87%D0%B0%D1%80%D0%BE%D0%B2%20%D0%98%D0%B2%D0%B0%D0%BD%20%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%CC%86%D0%BB%D0%BE%D0%B2%D0%B8%D1%87.pdf)
-
----
-
-<a href="https://github.com/ivan-telepop/ivan-telepop/blob/main/Ivan_Goncharov_CV_26.pdf"> View PDF file </a>
 
 ---
 [Сайт и блог:](https://ivan-telepop.github.io/#russ)
@@ -98,10 +102,7 @@ LINK [SoundCloud:](https://soundcloud.com/telepopchik/fr_output?si=864be554fd0d4
 Thanks to all people who are creative & positive wants to make world better. I do the same i just trying hard to do my best!
 
 ---
-Best wishes !
+Best regards !
 
 
-
-> [!NOTE]
-> Гитом пользоваться умею... 
 
