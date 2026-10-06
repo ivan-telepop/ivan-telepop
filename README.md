@@ -68,20 +68,14 @@ Read about experience:
 ---
 CV Links \ Ссылки на резюме:
 
-[ Download ENG    >>>  |     Cкачать ENG :](https://github.com/ivan-telepop/ivan-telepop/blob/main/eng_June%20-%20Ivan%20Goncharov.pdf)
+[ CV ENG ](https://github.com/ivan-telepop/ivan-telepop/blob/main/eng_June%20-%20Ivan%20Goncharov.pdf)
 
-[ Cкачать   RU    >>>  |     Download RU :](https://github.com/ivan-telepop/ivan-telepop/blob/main/ru_June%20-%20%D0%93%D0%BE%D0%BD%D1%87%D0%B0%D1%80%D0%BE%D0%B2%20%D0%98%D0%B2%D0%B0%D0%BD%20%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%CC%86%D0%BB%D0%BE%D0%B2%D0%B8%D1%87.pdf)
+[ CV RU ](https://drive.google.com/file/d/1FoJsVHhKrPwiIefEGaiapUdUhNHD20G_/view?usp=sharing)
 
 ---
 [Сайт и блог:](https://ivan-telepop.github.io/#russ)
 
 <a href="https://ivan-telepop.github.io/#russ"> Читать статьи и информацию обо мне </a>
-
----
-Ivan Stereotekk's music that makes change the world and probably thinking how. 
-https://www.beatport.com/artist/ivan-stereotekk/394712
-https://www.mixcloud.com/ivanstereotekk/
-https://www.youtube.com/@Ivan_Stereotekk
 
 ---
 telegram channel about tech:
